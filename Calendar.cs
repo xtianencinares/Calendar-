@@ -8,7 +8,6 @@ class SimpleCalendar
         int month = 1; // January
         int year = 2024;
 
-        // Display the calendar
         DisplayCalendar(month, year);
     }
 
