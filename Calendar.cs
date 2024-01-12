@@ -41,13 +41,12 @@ class SimpleCalendar
                 Console.Write($"   {day}");
             }
 
-            // Move to the next line for the start of a new week
             if ((int)(firstDayOfMonth.AddDays(day).DayOfWeek) == 0)
             {
                 Console.WriteLine();
             }
         }
 
-        Console.WriteLine(); // Move to the next line after printing the calendar
+        Console.WriteLine(); 
     }
 }
