@@ -31,7 +31,7 @@ class SimpleCalendar
         // Print the days
         for (int day = 1; day <= daysInMonth; day++)
         {
-            // Adjust spacing
+        
             if (day < 10)
             {
                 Console.Write($"    {day}");
