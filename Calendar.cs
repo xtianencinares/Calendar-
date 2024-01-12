@@ -28,7 +28,6 @@ class SimpleCalendar
             Console.Write("     ");
         }
 
-        // Print the days
         for (int day = 1; day <= daysInMonth; day++)
         {
         
