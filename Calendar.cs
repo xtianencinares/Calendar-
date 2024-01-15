@@ -31,7 +31,7 @@ class SimpleCalendar
         for (int day = 1; day <= daysInMonth; day++)
         {
         
-            if (day < 10)
+            if (day < 10) 
             {
                 Console.Write($"    {day}");
             }
