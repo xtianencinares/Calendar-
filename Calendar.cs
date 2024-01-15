@@ -28,8 +28,8 @@ class SimpleCalendar
             Console.Write("     ");
         }
 
-        for (int day = 1; day <= daysInMonth; day++)
-        {
+         for (int day = 1; day <= daysInMonth; day++)
+         {
         
             if (day < 10) 
             {
