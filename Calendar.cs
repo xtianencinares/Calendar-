@@ -1,7 +1,7 @@
 using System;
 
 class SimpleCalendar
-{
+{ 
     static void Main()
     {
         // Specify the month and year
