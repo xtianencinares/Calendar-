@@ -16,7 +16,7 @@ class SimpleCalendar
         // Get the first day of the month
         DateTime firstDayOfMonth = new DateTime(year, month, 1);
 
-        // Get the number of days in the month
+        // Get the number of days in the m
         int daysInMonth = DateTime.DaysInMonth(year, month);
 
         // Print the header
