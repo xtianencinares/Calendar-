@@ -25,7 +25,7 @@ class SimpleCalendar
         // Print leading spaces
         for (int i = 0; i < (int)firstDayOfMonth.DayOfWeek; i++)
         {
-            Console.Write("     ");
+            Console.Write("     "); 
         }
 
          for (int day = 1; day <= daysInMonth; day++)
