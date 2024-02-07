@@ -37,7 +37,7 @@ class SimpleCalendar
             }
             else
             {
-                Console.Write($"   {day}");
+                Console.Write($"   {day}"); 
             }
 
             if ((int)(firstDayOfMonth.AddDays(day).DayOfWeek) == 0)
