@@ -10,7 +10,7 @@ class SimpleCalendar
 
         DisplayCalendar(month, year);
     }
-
+ 
     static void DisplayCalendar(int month, int year)
     {
         // Get the first day of the month
