@@ -13,7 +13,6 @@ class SimpleCalendar
  
     static void DisplayCalendar(int month, int year)
     {
-        // Get the first day of the month
         DateTime firstDayOfMonth = new DateTime(year, month, 1);
 
         // Get the number of days in the m
