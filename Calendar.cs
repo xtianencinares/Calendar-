@@ -48,6 +48,5 @@ class SimpleCalendar
         Console.WriteLine(); 
     }
 }
-
 // Agoo Inc. V 1.10 2024 
 // Admin use only
